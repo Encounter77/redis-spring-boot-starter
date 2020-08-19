@@ -1,0 +1,1 @@
+com.springframework.boot.autoconfigure.EnableAutoConfiguration=com.example.redis.spring.boot.starter.config.RedissonAutoConfiguration
